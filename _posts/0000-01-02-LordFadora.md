@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your next objective
+Live long and prosper
 Use the left arrow to go back!
